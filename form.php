@@ -208,64 +208,56 @@ if (!isset($_SESSION['username'])) header('Location:signup.php');
 </section>
 <!-- End About Section -->
 
-    <!-- ======= Footer ======= -->
-    <footer id="footer">
+   <!-- ======= Footer ======= -->
+ <footer id="footer">
 
-      <div class="footer-top">
-        <div class="container">
-          <div class="row">
+<div class="footer-top">
+  <div class="container">
+    <div class="row">
 
-            <div class="col-lg-3 col-md-6 footer-contact">
-              <h3>Pisces Idea</h3>
-              <p> Adalah penyedia jasa desain grafis maupun produk dengan harga yang terjangkau.
-
-              </p>
-            </div>
-
-            <div class="col-lg-3 col-md-6 footer-links">
-              <h4>Tentang Kami</h4>
-              <ul>
-                <li><i class="bx bx-chevron-right"></i> <a href="#about">Deskripsi Usaha</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#services">Anggota & Struktur Usaha</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Aktivitas</a></li>
-            </div>
-
-            <div class="col-lg-3 col-md-6 footer-links">
-          <h4>Tentang Kami</h4>
-          <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="profil.php">Deskripsi Usaha</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="profil.php">Anggota & Struktur Usaha</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="profil.php">Aktivitas</a></li>
-        </div>
-        <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Layanan Kami</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="index.php#portfolio">Logo</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="index.php#portfolio">Feeds Instagram</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="index.php#portfolio">Poster</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="index.php#portfolio">Microblog</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="index.php#portfolio">Highlight Instagram</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="index.php#portfolio">Merchandise</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-3 col-md-6 footer-links">
-                <h4>Hubungi Kami</h4>
-              <strong>Phone:</strong> +62 887-5080-664 <br>
-              <strong>Email:</strong> admin@pisces.id<br></p>
-            <div class="social-links mt-3">
-              <a href="http://wa.me/628875080664" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
-              <a href="http://instagram.com/piscees.id" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <a href="https://pisces-idea.business.site/?utm_source=gmb&utm_medium=referral" class="web"><i class="bx bx-world"></i></a>
-            </div>
-            <br>
-            <h4>Lokasi Kami</h4>
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3973.5415532400098!2d119.47415721412794!3d-5.177175653701639!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dbee37a95a97ecb%3A0x701996781a5645b1!2sPisces%20Idea!5e0!3m2!1sid!2sid!4v1665560715812!5m2!1sid!2sid" width="300" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-          </div>
-
-          </div>
-        </div>
+      <div class="col-lg-3 col-md-6 footer-contact">
+        <h3>Pisces Idea</h3>
+        <p> Adalah penyedia jasa desain grafis maupun produk dengan harga yang terjangkau. 
+         
+        </p>
       </div>
+
+      <div class="col-lg-3 col-md-6 footer-links">
+        <h4>Tentang Kami</h4>
+        <ul>
+          <li><i class="bx bx-chevron-right"></i> <a href="profil.php">Deskripsi Usaha</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="profil.php">Anggota & Struktur Usaha</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="profil.php">Aktivitas</a></li>
+      </div>
+      <div class="col-lg-3 col-md-6 footer-links">
+          <h4>Layanan Kami</h4>
+          <ul>
+            <li><i class="bx bx-chevron-right"></i> <a href="index.php#portfolio">Logo</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="index.php#portfolio">Feeds Instagram</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="index.php#portfolio">Poster</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="index.php#portfolio">Microblog</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="index.php#portfolio">Highlight Instagram</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="index.php#portfolio">Merchandise</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-3 col-md-6 footer-links">
+              <h4>Hubungi Kami</h4>
+            <strong>Phone:</strong> +62 887-5080-664 <br>
+            <strong>Email:</strong> admin@pisces.id<br></p>
+          <div class="social-links mt-3">
+            <a href="http://wa.me/628875080664" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
+            <a href="http://instagram.com/piscees.id" class="instagram"><i class="bx bxl-instagram"></i></a>
+            <a href="https://pisces-idea.business.site/?utm_source=gmb&utm_medium=referral" class="web"><i class="bx bx-world"></i></a>
+          </div>
+          <br>
+          <h4>Lokasi Kami</h4>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3973.5415532400098!2d119.47415721412794!3d-5.177175653701639!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dbee37a95a97ecb%3A0x701996781a5645b1!2sPisces%20Idea!5e0!3m2!1sid!2sid!4v1665560715812!5m2!1sid!2sid" width="300" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+
+    </div>
+  </div>
+</div>
 
       <div class="container py-4">
         <div class="copyright">
